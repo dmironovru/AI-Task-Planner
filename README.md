@@ -65,14 +65,18 @@ npm run dev
 
 ## 📸 Скриншоты
 
+
 ### Главная страница
-![Главная](./screenshot-main.png)
+![](https://raw.githubusercontent.com/dmironovru/AI-Task-Planner/main/screenshot-main.png)
 
 ### Создание задачи
-![Создание](./screenshot-create.png)
+![](https://raw.githubusercontent.com/dmironovru/AI-Task-Planner/main/screenshot-create.png)
 
 ### Список покупок
-![Покупки](./screenshot-shopping.png)
+![](https://raw.githubusercontent.com/dmironovru/AI-Task-Planner/main/screenshot-shopping.png)
+
+### Календарь
+![](https://raw.githubusercontent.com/dmironovru/AI-Task-Planner/main/screenshot-calendar.png)
 
 ## 🚧 В разработке
 
@@ -87,7 +91,3 @@ npm run dev
 
 - 🌐 [dmitrymironov.ru](https://dmitrymironov.ru)
 - 💼 [GitHub](https://github.com/dmironovru)
-
----
-
-
